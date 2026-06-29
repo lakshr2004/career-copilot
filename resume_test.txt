@@ -1,0 +1,8 @@
+Rahul Sharma
+Email: rahul.sharma2026@gmail.com
+Phone: +91 98765 43210
+Aadhar: 4567 8901 2345
+Education: B.Tech in CS (CGPA 8.4/10)
+Skills: Java, Spring Boot, MySQL, JavaScript, Git, REST APIs
+Projects: Microservice backend with JWT auth.
+Seeking Software Engineer role.

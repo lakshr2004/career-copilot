@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+
+# Environment - NEVER UPLOAD
+.env
+.env.local
+venv/
+env/
+
+# Security logs - NEVER UPLOAD
+security/audit.log
+*.log
+
+# Node
+node_modules/
+dist/
+.npm
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Antigravity internal
+.antigravity/
+.gemini/
+
+# Large media
+*.mp4
