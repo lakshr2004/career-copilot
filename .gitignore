@@ -31,3 +31,8 @@ Thumbs.db
 
 # Large media
 *.mp4
+
+# Scratch and temp files
+scratch/
+*.webp
+resume_test.txt
