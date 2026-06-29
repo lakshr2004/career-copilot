@@ -117,9 +117,11 @@ pip install -r requirements.txt
 ```
 
 Create `.env` file:
+```env
 GOOGLE_API_KEY=your_gemini_api_key_here
 GITHUB_PERSONAL_ACCESS_TOKEN=your_github_token_here
 PORT=8000
+```
 
 ### 3. Frontend Setup
 ```bash
